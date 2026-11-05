@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name shown under the icon on the TV -->
+    <string name="app_name">Plates Showroom</string>
+    <!-- The website the app opens. Change this only if your site address changes. -->
+    <string name="start_url">https://traffic-4753c.web.app/</string>
+</resources>
